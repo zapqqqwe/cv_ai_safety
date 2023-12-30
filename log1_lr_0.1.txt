@@ -1,0 +1,28 @@
+Files already downloaded and verified
+Epoch 1, Loss: 1.6269771139640028
+Epoch 2, Loss: 1.1924263021677657
+Epoch 3, Loss: 0.9894488785425415
+Epoch 4, Loss: 0.8528684525538588
+Epoch 5, Loss: 0.7336303130592532
+Epoch 6, Loss: 0.6295550381359847
+Epoch 7, Loss: 0.5363457865841553
+Epoch 8, Loss: 0.44856758852062933
+Epoch 9, Loss: 0.366260273682187
+Epoch 10, Loss: 0.28958724772610017
+Finished Training
+Files already downloaded and verified
+Accuracy on the test set: 70.23%
+Precision on the test set: 70.64%
+Recall on the test set: 70.23%
+F1 score on the test set: 69.86%
+Confusion Matrix:
+[[727  22  42  11   9  16  14   7 117  35]
+ [ 19 831   4   1   2  11  11   1  28  92]
+ [ 75   8 559  45  74 108  76  16  23  16]
+ [ 29  10  56 393  71 286  90  28  18  19]
+ [ 30   6  59  51 623  68  75  53  22  13]
+ [ 19   6  37  74  40 737  35  28  18   6]
+ [ 11   2  36  44  23  45 817   4  12   6]
+ [ 21   9  27  31  43 124  11 695   7  32]
+ [ 38  41   6   7   4  11   8   3 847  35]
+ [ 38  71   5  12   7  16   7  10  40 794]]

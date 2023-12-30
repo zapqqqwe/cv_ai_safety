@@ -1,0 +1,38 @@
+Files already downloaded and verified
+Epoch 1, Loss: 1.5019734164345975
+Epoch 2, Loss: 1.0586511067526507
+Epoch 3, Loss: 0.86132586227345
+Epoch 4, Loss: 0.7216732748429591
+Epoch 5, Loss: 0.5997561924898388
+Epoch 6, Loss: 0.49527358443441105
+Epoch 7, Loss: 0.40201855766433825
+Epoch 8, Loss: 0.3265152188114493
+Epoch 9, Loss: 0.26902827159075576
+Epoch 10, Loss: 0.24484619035630445
+Epoch 11, Loss: 0.1995447008981967
+Epoch 12, Loss: 0.19129709752740712
+Epoch 13, Loss: 0.18234890902454245
+Epoch 14, Loss: 0.15592138964092325
+Epoch 15, Loss: 0.1593879846914392
+Epoch 16, Loss: 0.1547555544208652
+Epoch 17, Loss: 0.13353631196824967
+Epoch 18, Loss: 0.13430296794562918
+Epoch 19, Loss: 0.12708030166632514
+Epoch 20, Loss: 0.12846399713215262
+Finished Training
+Files already downloaded and verified
+Accuracy on the test set: 68.27%
+Precision on the test set: 68.28%
+Recall on the test set: 68.27%
+F1 score on the test set: 68.02%
+Confusion Matrix:
+[[759  29  32  24  20  18   8  15  44  51]
+ [ 25 799   4  13   4   8   7   7  24 109]
+ [ 81   7 529  64  78  88  82  35  19  17]
+ [ 24  15  56 434  74 227  76  46  12  36]
+ [ 37   5  64  52 591  63  75  80  12  21]
+ [ 18   3  39 138  39 635  39  60   7  22]
+ [  6   6  31  55  38  42 785   7  13  17]
+ [ 22   4  20  48  46  69  14 732   8  37]
+ [109  34   7  12   7  14   6  11 755  45]
+ [ 28  72  11  15   8   7   7  17  27 808]]

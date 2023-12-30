@@ -1,0 +1,40 @@
+Files already downloaded and verified
+Epoch 1, Loss: 1.4749188236570359
+Epoch 2, Loss: 1.2010872246336937
+Epoch 3, Loss: 1.1085276967656612
+Epoch 4, Loss: 1.0553572822341324
+Epoch 5, Loss: 1.0097942295650393
+Epoch 6, Loss: 1.0131440028712153
+Epoch 7, Loss: 0.9935795693805813
+Epoch 8, Loss: 1.004803787701428
+Epoch 9, Loss: 1.014912204418853
+Epoch 10, Loss: 1.0460888545903564
+Epoch 11, Loss: 1.1022168888149038
+Epoch 12, Loss: 1.110869554005228
+Epoch 13, Loss: 1.1468604897685721
+Epoch 14, Loss: 1.2572872441217304
+Epoch 15, Loss: 1.3176158723652363
+Epoch 16, Loss: 1.3880911533899232
+Epoch 17, Loss: 1.4474589259192348
+Epoch 18, Loss: 1.6034626783040167
+Epoch 19, Loss: 1.9464148384445905
+Epoch 20, Loss: 2.1484280881261824
+Finished Training
+Files already downloaded and verified
+/home/lichenglin/anaconda3/envs/myenv/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1471: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Accuracy on the test set: 10.08%
+Precision on the test set: 21.00%
+Recall on the test set: 10.08%
+F1 score on the test set: 1.98%
+Confusion Matrix:
+[[   0 1000    0    0    0    0    0    0    0    0]
+ [   0 1000    0    0    0    0    0    0    0    0]
+ [   0  995    2    1    2    0    0    0    0    0]
+ [   0 1000    0    0    0    0    0    0    0    0]
+ [   0  995    0    1    2    0    0    0    2    0]
+ [   0  999    0    0    0    0    0    0    1    0]
+ [   0  999    0    0    0    0    0    0    1    0]
+ [   0 1000    0    0    0    0    0    0    0    0]
+ [   0  996    0    0    0    0    0    0    4    0]
+ [   0 1000    0    0    0    0    0    0    0    0]]
